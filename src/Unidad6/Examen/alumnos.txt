@@ -1,0 +1,8 @@
+001, Sebastian, Arellanes, 99, true
+002, Julissa, Fernandez, 100, false
+003, Ricardo, Valenzuela, 69, true
+004, Bryan, Inzunza, 40, true
+005, Natalia, Rendon, 80, false
+006, Guadalupe, Orpinela, 30, false
+007, Maximiliano, Camacho, 92, true
+008, Diego, Samano, 70, true
